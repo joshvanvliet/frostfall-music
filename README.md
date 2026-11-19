@@ -19,6 +19,7 @@ The server plays each file by its path below, relative to this site's address.
 | `music/frostfall-caverns.ogg` | Frostfall: Crystal Ice Caverns | 3:24 | 3719 KB |
 | `music/boss-krampus-loop.ogg` | Krampusnacht (seamless loop) | 2:13 | 2410 KB |
 | `sfx/sleigh-bells-loop.ogg` | Sleigh bells (seamless loop) | 0:04 | 108 KB |
+| `sfx/carol.ogg` | The carollers at someone's door (Deck the Halls, seven singers) | 0:48 | 503 KB |
 | `sfx/unwrap-fanfare.ogg` | A package is unwrapped | 0:05 | 77 KB |
 
 All files are OGG Vorbis, 44.1 kHz stereo, levelled to -20 LUFS.
@@ -38,3 +39,4 @@ Music for the Frostfall server, composed, arranged and rendered by the Frostfall
   (traditional English), "Joy to the World" (Lowell Mason after Handel, 1839), "O Come, All Ye Faithful"
   (John Francis Wade, about 1751), "Good King Wenceslas" (Piae Cantiones, 1582); "Jingle Bells" (James Lord
   Pierpont, 1857) and "Dies irae" (Gregorian chant) quoted in the Krampusnacht theme.
+- Carollers' voices: Freesound 763914 by ShangusBurger (CC0 1.0); sleigh bells: Freesound 565415 by RedHatCreator (CC0 1.0); wind: Freesound 637566 by kyles (CC0 1.0)
